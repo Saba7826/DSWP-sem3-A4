@@ -1,1 +1,2 @@
-# DSWP-sem3-A4
+### DSWP-sem3-A4
+Naive bayes classification algorithm
